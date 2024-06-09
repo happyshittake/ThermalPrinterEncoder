@@ -1,6 +1,7 @@
 import EscPosEncoder from 'esc-pos-encoder';
 import StarPrntEncoder from 'star-prnt-encoder';
 
+
 /**
  * Create a byte stream based on commands for ESC/POS or StarPRNT printers
  */
