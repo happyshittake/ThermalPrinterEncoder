@@ -47,7 +47,7 @@
         "rollup": "^3.20.7"
     },
     "dependencies": {
-        "esc-pos-encoder": "github:happyshittake/EscPosEncoder#b215c858e57f603676c02e104c716cacfa7e9c41",
+        "esc-pos-encoder": "github:happyshittake/EscPosEncoder#c19ef93d4ca0df4bffa47926f07b763755776175",
         "star-prnt-encoder": "^2.0.1"
     }
 }
